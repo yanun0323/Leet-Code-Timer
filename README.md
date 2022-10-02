@@ -1,8 +1,9 @@
 # Leet Code Timer
-Leet code timer is a simple countdown timer for crash leet code on MacOS.
-It develop by SwiftUI.
+Leet code timer is a simple countdown timer for crash leet code.
 
-You can download the app from realease.
+It only works on MacOS.
+
+You can download it from realease.
 
 # Sreen Shot
 
