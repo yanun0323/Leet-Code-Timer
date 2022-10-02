@@ -2,6 +2,8 @@
 Leet code timer is a simple countdown timer for crash leet code.
 It only works on MacOs.
 
+You can download the app from realease.
+
 # Sreen Shot
 
 ![Screen Shot 2022-10-02 at 19 30 22](https://user-images.githubusercontent.com/44286349/193451888-3bf12d40-951b-4835-b097-052e0346df5f.png)
